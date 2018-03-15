@@ -1,16 +1,18 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Deliberate. Do. Learn.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hello, I am Madhavan. I'm a graduate student at Iowa State University. I have a Bachelor's degree in Computer Science. I enjoy engaging in challenging problems, writing code. I've developed mobile applications(iOS, Android), web applications. I am currently researching Information Diffusion in Social Networks at Iowa State University.  
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Passions of mine:
+- Building applications that work on big data
+- Algorithms on large graphs
+- Writing, optimizing code
+- Most importantly, learning new skills
 
-What else do you need?
 
-### my history
+### Say Hello
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+If you'd like to connect with me, send out an [email](mailto:mdhvnrp@gmail.com) or say hello on [Facebook](https://www.facebook.com/Madhavan.RajagopalPadmanabhan).
