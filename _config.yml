@@ -16,11 +16,12 @@
 title: Madhavan's Website
 email: mdhvnrp@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my personal website. You can find a summary of my work here. 
+  Madhavan Rajagopal Padmanabhan's personal website. You can find a summary of my work here. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://madhavanrp.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  madhavanrp
+repository: "madhavanrp/madhavanrp.github.io"
 
 # Build settings
 markdown: kramdown
