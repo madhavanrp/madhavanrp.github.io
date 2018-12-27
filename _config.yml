@@ -22,13 +22,16 @@ url: "https://madhavanrp.github.io" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 github_username:  madhavanrp
 repository: "madhavanrp/madhavanrp.github.io"
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
+# Use the remote theme method instead of above "theme:"
+remote_theme: "mmistakes/minimal-mistakes@4.14.1"
 
 # Build settings
 markdown: kramdown
 
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 minimal_mistakes_skin    : "contrast"
 paginate: 5 # amount of posts to show
