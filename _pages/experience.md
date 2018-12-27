@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Experience
+permalink: /experience/
+title: "Industry Experience"
 ---
 
 * __NP Compete Technologies__ Chennai, India \| 2011-2014
