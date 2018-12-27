@@ -1,0 +1,15 @@
+Madhavan R.P:
+  name: "Madhavan R.P"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "I'm a Computer Science enthusiast pursuing a Ph.D at Iowa State University"
+  location: "Ames, Iowa, United States"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/madhavanrp/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/madhavanrp"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/Madhavan.RajagopalPadmanabhan"

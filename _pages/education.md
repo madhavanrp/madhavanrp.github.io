@@ -1,12 +1,12 @@
 ---
-layout: page
-title: Education
+permalink: /education/
+title: "Education"
 ---
 
 * __Iowa State University__ Ames, IA \| 2016-present
-    * Master of Science - Computer Science
+    * Ph.D - Computer Science
     * Researching Information Diffusion in Social Networks
-    * Teaching Assistant for courses on Java, Microsoft Excel and Access
+    * Teaching Assistant for courses on Big Data Algorithms, Java Programming
 
 ---
 
