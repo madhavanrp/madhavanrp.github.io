@@ -25,6 +25,7 @@ repository: "madhavanrp/madhavanrp.github.io"
 # theme: minimal-mistakes-jekyll
 # Use the remote theme method instead of above "theme:"
 remote_theme: "mmistakes/minimal-mistakes@4.14.1"
+teaser: /assets/images/teaser.png
 
 # Build settings
 markdown: kramdown
