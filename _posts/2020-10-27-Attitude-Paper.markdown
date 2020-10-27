@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Paper accepted - Quantifying Attitude - IEEE ASONAM 2020"
-date:   2020-10-27 20:08:37 -0600
+date:   2020-10-27 18:00:00 -0500
 categories: news
 ---
 I'm happy to share that our paper titled "Measuring the Impact of Influence on Individuals: Roadmap to Quantifying Attitude" has been accepted for publication at the 2020 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM). 
