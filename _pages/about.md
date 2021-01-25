@@ -16,7 +16,6 @@ Passions of mine:
 
 ### Other Interests
 - I'm an avid fan of Soccer and MMA.
-- I do a little bit of boxing.
 
 ### Say Hello
 
